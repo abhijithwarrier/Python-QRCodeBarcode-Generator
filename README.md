@@ -12,3 +12,10 @@ The barcode library can be installed using the command - pip install python-barc
 
 Pillow is required to generate barcodes in image formats (such as png or jpg).
 The pillow library can be installed using the command - pip install pillow
+
+# QRCode OUTPUT OF THE GUI:
+![image](https://user-images.githubusercontent.com/46685919/148674177-15887114-f946-496e-b7e4-8da39f1a4e29.png)
+
+
+# Barcode OUTPUT OF THE GUI:
+![image](https://user-images.githubusercontent.com/46685919/148674192-66d97e74-baff-4979-9ae8-e7559486b45b.png)
